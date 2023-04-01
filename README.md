@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure
-  - [Creating our first Virtual Machine](https://github.com/joshualevineit/first-virtual-machine)
+  - [Creating our first Virtual Machine in Azure](https://github.com/joshualevineit/first-virtual-machine)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshualevineit/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshualevineit/azure-network-protocols)
