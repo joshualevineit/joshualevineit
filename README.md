@@ -5,7 +5,7 @@
 - <b>Microsoft Azure
   - [Creating our first Virtual Machine in Azure](https://github.com/joshualevineit/first-virtual-machine)
 - <b>Active Directory</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshualevineit/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshualevineit/configure-active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshualevineit/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshualevineit/osticket-prerequisites-and-installation)
